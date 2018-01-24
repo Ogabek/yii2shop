@@ -29,6 +29,7 @@
     "config": {
         "process-timeout": 1800
     },
+
     "repositories": [
         {
             "type": "composer",
